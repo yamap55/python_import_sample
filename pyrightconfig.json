@@ -1,5 +1,5 @@
 {
-  "reportMissingImports": true,
+  "reportMissingImports": false,
   "reportMissingTypeStubs": false,
   "reportImportCycles": true,
   "reportUnusedImport": true,
