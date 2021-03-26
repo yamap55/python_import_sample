@@ -1,8 +1,8 @@
 # python_import_sample
 
-本リポジトリは import の挙動を確認するためのリポジトリです
-LT で使用するために作成されました
-詳細は document.md を参照してください
+- 本リポジトリは import の挙動を確認するためのリポジトリです
+- LT で使用するために作成されました
+- 詳細は [document.md](./document.md) を参照してください
 
 ## 起動手順
 
